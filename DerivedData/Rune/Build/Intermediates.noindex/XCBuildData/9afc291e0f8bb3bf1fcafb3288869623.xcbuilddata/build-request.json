@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5e9a6dd9f541b04f54bac4a5d5b2b75ba79c403f8bece3fe3412fbcb2903df71"
+    }
+  ],
+  "containerPath" : "/Users/danilsovinskii/Documents/less2/Rune/Rune.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Products",
+      "derivedDataPath" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone11,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone11,4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "1BD26086-3DCC-4B88-B439-AB1DEB7B13D9",
+          "TARGET_DEVICE_MODEL" : "iPhone11,4",
+          "TARGET_DEVICE_OS_VERSION" : "15.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

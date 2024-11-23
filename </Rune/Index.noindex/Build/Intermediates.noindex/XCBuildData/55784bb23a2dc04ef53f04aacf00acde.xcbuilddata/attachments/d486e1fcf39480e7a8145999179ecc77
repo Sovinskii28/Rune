@@ -1,0 +1,36 @@
+{
+  "" : {
+    "dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex/Rune.build/Debug-iphoneos/Rune.build/Objects-normal/arm64/Rune-master.d",
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex/Rune.build/Debug-iphoneos/Rune.build/Objects-normal/arm64/Rune-master.dia",
+    "emit-module-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex/Rune.build/Debug-iphoneos/Rune.build/Objects-normal/arm64/Rune-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex/Rune.build/Debug-iphoneos/Rune.build/Objects-normal/arm64/Rune-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex/Rune.build/Debug-iphoneos/Rune.build/Objects-normal/arm64/Rune-master.swiftdeps"
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex/Rune.build/Debug-iphoneos/Rune.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/AppDelegate.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/Model/RuneCell.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/Model/RuneModel.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/ModelMenu.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/View/DescriptionViewController.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/View/MainViewController.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/extansion/ Extension + UIViewController.swift" : {
+
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/extansion/ColorHEX+.swift" : {
+
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/Rune-master.dia",
+    "emit-module-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/Rune-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/Rune-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/Rune-master.swiftdeps"
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/AppDelegate.swift" : {
+    "const-values" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/extansion/ColorHEX+.swift" : {
+    "const-values" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+.swiftconstvalues",
+    "dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+.d",
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+.dia",
+    "index-unit-output-path" : "/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+.o",
+    "llvm-bc" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+.bc",
+    "object" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+.o",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+.swiftdeps",
+    "swiftmodule" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/ColorHEX+~partial.swiftmodule"
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/Model/RuneCell.swift" : {
+    "const-values" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell.swiftconstvalues",
+    "dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell.d",
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell.dia",
+    "index-unit-output-path" : "/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell.o",
+    "llvm-bc" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell.bc",
+    "object" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell.o",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell.swiftdeps",
+    "swiftmodule" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneCell~partial.swiftmodule"
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/Model/RuneModel.swift" : {
+    "const-values" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel.swiftconstvalues",
+    "dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel.d",
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel.dia",
+    "index-unit-output-path" : "/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel.o",
+    "llvm-bc" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel.bc",
+    "object" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel.o",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel.swiftdeps",
+    "swiftmodule" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/RuneModel~partial.swiftmodule"
+  },
+  "/Users/danilsovinskii/Documents/less2/Rune/Rune/View/MainViewController.swift" : {
+    "const-values" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController.swiftconstvalues",
+    "dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController.d",
+    "diagnostics" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController.dia",
+    "index-unit-output-path" : "/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController.o",
+    "llvm-bc" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController.bc",
+    "object" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController.o",
+    "swift-dependencies" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController.swiftdeps",
+    "swiftmodule" : "/Users/danilsovinskii/Documents/less2/Rune/DerivedData/Rune/Build/Intermediates.noindex/Rune.build/Debug-iphonesimulator/Rune.build/Objects-normal/arm64/MainViewController~partial.swiftmodule"
+  }
+}

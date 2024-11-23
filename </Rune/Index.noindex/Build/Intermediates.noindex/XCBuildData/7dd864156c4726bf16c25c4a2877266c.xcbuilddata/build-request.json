@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5e9a6dd9f541b04f54bac4a5d5b2b75ba79c403f8bece3fe3412fbcb2903df71"
+    }
+  ],
+  "containerPath" : "/Users/danilsovinskii/Documents/less2/Rune/Rune.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/danilsovinskii/Documents/less2/Rune/<",
+      "indexDataStoreFolderPath" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Build/Products",
+      "pchPath" : "/Users/danilsovinskii/Documents/less2/Rune/</Rune/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
